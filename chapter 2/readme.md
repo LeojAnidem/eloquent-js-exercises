@@ -1,11 +1,9 @@
-# Chapter 2 - Exercises
-
-A brief description of what this project does and who it's for
+# Chapter 2: Program Structure - Exercises
 
 ### Looping a triangle
 Write a loop that makes seven calls to console.log to output the following triangle:
 
-```javascript
+```js
 #
 ##
 ###
